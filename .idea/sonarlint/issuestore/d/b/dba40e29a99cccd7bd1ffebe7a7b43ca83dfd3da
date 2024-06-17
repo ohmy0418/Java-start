@@ -1,0 +1,7 @@
+
+W
+java:S1854":Remove this useless assignment to local variable "lonVar".(‘¸ï8÷§‹©‚2
+H
+java:S1481"+Remove this unused "lonVar" local variable.(‘¸ï8÷§‹©‚2
+G	java:S106"+Replace this use of System.out by a logger.(™„“Å8ıŠ©‚2
+G	java:S106"+Replace this use of System.out by a logger.(ˆËâá8şŠ©‚2
