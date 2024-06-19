@@ -54,3 +54,13 @@ J
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+I
+src/operator/Assign1.java,a/2/a2890bf4089a230ca139481f614035aa4b162f5a
+I
+src/operator/Assign2.java,7/c/7c19062b821b6c3258ef123234d2135103bc1041
+M
+src/operator/OperatorEx1.java,3/1/318ac2ebd75221822b17c81b46bb9f54b917c268
+M
+src/operator/OperatorEx2.java,4/3/43f392e8ded16a8f24a6b4d203d51869c6639bc4
+M
+src/operator/OperatorEx3.java,a/e/ae0506b148c960c41471cd4f5c08fdc980adbd56
