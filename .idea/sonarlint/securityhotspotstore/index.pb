@@ -56,11 +56,29 @@ J
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 I
 src/operator/Assign1.java,a/2/a2890bf4089a230ca139481f614035aa4b162f5a
-I
-src/operator/Assign2.java,7/c/7c19062b821b6c3258ef123234d2135103bc1041
 M
 src/operator/OperatorEx1.java,3/1/318ac2ebd75221822b17c81b46bb9f54b917c268
 M
 src/operator/OperatorEx2.java,4/3/43f392e8ded16a8f24a6b4d203d51869c6639bc4
 M
 src/operator/OperatorEx3.java,a/e/ae0506b148c960c41471cd4f5c08fdc980adbd56
+F
+src/condition/If1.java,d/3/d3f86bd3da348a0e8c10454702abbec79299751b
+F
+src/condition/If2.java,1/9/19eaf88d40f40148ce90c47d9a16def777e352da
+F
+src/condition/If3.java,c/3/c3e0de38e0e575fff34a77976146b8202d92d0da
+F
+src/condition/If4.java,4/b/4b21db8fb51ba48ecdb9d8ff6741b19bea035db3
+F
+src/condition/If5.java,7/0/709d2d41dabe675eda11706b5d7fa4766db90002
+F
+src/condition/If6.java,2/3/23b8995d08adef1bd0fd0fa26ab3eab15c54e0bd
+J
+src/condition/Switch1.java,5/1/510beaa0bff893467177b0bada46b8872eeb679a
+J
+src/condition/Switch2.java,4/a/4a32ec548c1c40cff9a062759a52126b0125b5f5
+J
+src/condition/Switch3.java,4/1/41d899853f2a41ce7fceaef5497d2bd501390d6b
+J
+src/condition/Switch4.java,c/d/cd7013f329854e98fe839519461411db7d86fbc9
